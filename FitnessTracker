@@ -1,0 +1,29 @@
+FitnessTracker/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   └── utils.py
+├── config/
+│   └── config.yaml
+├── data/
+│   ├── raw/
+│   └── processed/
+├── scripts/
+│   ├── fetch_data.py
+│   └── analyze_data.py
+├── tests/
+│   ├── test_main.py
+│   ├── test_models.py
+│   └── test_utils.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── setup.py
